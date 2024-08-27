@@ -164,7 +164,7 @@ function UserAccount() {
           </div>
 
           <div className="rightside__popup--photos">
-            <img src="../../images/band.jpg" alt="port louix"></img>
+            <img src="../../images/band.JPG" alt="port louix"></img>
             <img
               src="../../images/sofy.jpeg"
               alt="a bengal cat and a woman"
